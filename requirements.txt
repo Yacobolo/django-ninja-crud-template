@@ -1,0 +1,4 @@
+django-ninja==0.22.2
+django-ninja-crud==0.3.1
+django-ninja-jwt==5.2.5
+python-dotenv==1.0.0
