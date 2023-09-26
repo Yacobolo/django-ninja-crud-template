@@ -1,6 +1,7 @@
 # Django Ninja Crud Template
+![image](https://github.com/Yacobolo/django-ninja-crud-template/assets/45033225/b1210bd1-2bb7-4eff-ac1a-78f27297a3f5)
 
-This is a robust Django project template that provides a seamless implementation of `django-ninja`, `django-ninja-jwt`, and `django-ninja-crud`. It's crafted to jump-start your Django project, ensuring a solid and efficient foundation with JWT authentication, CRUD operations, and more, all built on the powerful Django Ninja framework.
+This is a Django project template that provides a seamless implementation of `django-ninja`, `django-ninja-jwt`, and `django-ninja-crud`. It's crafted to jump-start your Django project, ensuring a solid and efficient foundation with JWT authentication, CRUD operations, and more, all built on the powerful Django Ninja framework.
 
 ## Features
 
